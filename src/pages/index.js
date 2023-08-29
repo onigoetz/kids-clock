@@ -1,6 +1,8 @@
+"use client";
+
 import React, { useEffect, useState } from "react";
-import { isJamesUp, isEliorUp, isAlyssaUp } from "./utils";
-import "./styles.css";
+import { isJamesUp, isEliorUp, isAlyssaUp } from "../utils";
+
 
 function Sun(props) {
   return (
