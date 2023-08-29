@@ -1,3 +1,1 @@
-module.export = {
-    target: "serverless"
-}
+module.export = {};
